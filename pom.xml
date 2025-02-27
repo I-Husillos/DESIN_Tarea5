@@ -27,7 +27,7 @@
 								${project.build.directory}/${project.build.finalName}.jar</jar>
 							<errTitle>App Error</errTitle>
 							<classPath>
-								<mainClass>main.InterfazSimple</mainClass>
+								<mainClass>main.DESIN_Tarea5</mainClass>
 							</classPath>
 						</configuration>
 					</execution>
